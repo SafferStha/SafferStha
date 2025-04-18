@@ -4,4 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SafferStha/SafferStha/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
