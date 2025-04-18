@@ -1,7 +1,8 @@
 name: Generate Snake 🐍 animation
 
 on:
-  schedule: # run automatically every 6 hours
+  # run automatically every 6 hours
+  schedule:
     - cron: "0 */6 * * *" 
   
   # allows to manually run the job at any time
