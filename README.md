@@ -5,3 +5,5 @@
 </picture>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SafferStha&theme=github-compact&bg_color=none&area=true&hide_border=true)
