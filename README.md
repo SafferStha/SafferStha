@@ -28,9 +28,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafferStha&theme=default&hide_border=true&utcOffset=5.45" alt="Commit Time badge" width="40%" />
   </picture>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SafferStha&theme=dark&hide_border=true&short_numbers=true&mode=weekly&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SafferStha&theme=graywhite&short_numbers=true&hide_border=true&mode=weekly" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SafferStha&theme=default&short_numbers=true&hide_border=true&mode=weekly" width="59.3%" alt="GitHub Streak badge" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SafferStha&theme=dark&hide_border=true&short_numbers=true&ring=EBEBEB&fire=EBEBEB&currStreakLabel=EBEBEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SafferStha&theme=graywhite&short_numbers=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SafferStha&theme=default&short_numbers=true&hide_border=true" width="59.3%" alt="GitHub Streak badge" />
   </picture><br>
 
   <details>
