@@ -33,8 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SafferStha&theme=default&short_numbers=true&hide_border=true" width="59.3%" alt="GitHub Streak badge" />
   </picture><br>
 
-  <details>
-  <summary>Top Languages</summary>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafferStha&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafferStha&theme=graywhite&hide_border=true" />
@@ -45,7 +43,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SafferStha&theme=graywhite&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SafferStha&theme=github&hide_border=true" alt="Top languages by commit badge" />
   </picture><br>
-  </details>
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SafferStha&theme=high-contrast&bg_color=none&area=true&hide_border=true" />
