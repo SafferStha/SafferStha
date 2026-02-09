@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # run automatically every 6 hours
-    - cron: "0 */6 * * *"
+  schedule: # run automatically every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:

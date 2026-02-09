@@ -2,7 +2,7 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # run automatically every 6 hours
+    - cron: "0 */12 * * *"  # run automatically every 12 hours
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
