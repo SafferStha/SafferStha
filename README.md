@@ -58,7 +58,13 @@
 </picture>
 
 <picture>
-<img align="center" width: 100vw" src="space-shooter.webp" alt="Github Space Shooter" />
+  <img align="center" width: 100vw" src="space-shooter.webp" alt="Github Space Shooter" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SafferStha/SafferStha/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SafferStha/SafferStha/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/SafferStha/SafferStha/refs/heads/github-breakout/images/breakout-light.svg">
 </picture>
 
 <picture>
