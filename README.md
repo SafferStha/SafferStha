@@ -11,7 +11,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafferStha&theme=default&hide_border=true" alt="Profile details badge" />
   </picture><br>
 
-  <picture>
+  <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=SafferStha&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=SafferStha&limit=5&theme=graywhite&combine_all_yearly_contributions=true&hide_border=true" />
   <img src="https://github-contributor-stats.vercel.app/api?username=SafferStha&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="50.9%" alt="GitHub Contributor Stats badge" />
@@ -20,7 +20,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafferStha&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SafferStha&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=6" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafferStha&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=6" width="45.7%" alt="Most Used Languages badge" />
-  </picture><br>
+  </picture><br> -->
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafferStha&theme=dark&hide_border=true&utcOffset=5.45" />
