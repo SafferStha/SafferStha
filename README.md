@@ -1,9 +1,9 @@
 <div align="center">
-  <picture>
+  <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-stats.vercel.app/api?username=SafferStha&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-stats.vercel.app/api?username=SafferStha&&theme=light" />
   <img src="https://github-contribution-stats.vercel.app/api/?username=SafferStha&theme=default" alt="Contribution Stats badge" />
-  </picture><br>
+  </picture><br> -->
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafferStha&theme=dark&hide_border=true" />
